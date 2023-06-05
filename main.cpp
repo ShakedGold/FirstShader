@@ -92,17 +92,6 @@ int main()
     glViewport(0, 0, 800, 600);
     glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);  
   
-    //create shader
-    //std::array<float, 12> positions = {
-    //    -1.0f, 1.0f,
-    //    1.0f, -1.0f,
-    //    -1.0f, -1.0f,
-
-    //    1.0f, 1.0f,
-    //    1.0f, -1.0f,
-    //    -1.0f, 1.0f
-    //};
-
     float positions[] {
         -1.0f, 1.0f,
         1.0f, -1.0f,
