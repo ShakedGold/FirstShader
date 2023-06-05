@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/GLFW-CMake-starter.dir/main.cpp.o" "CMakeFiles/GLFW-CMake-starter.dir/glad/src/glad.c.o" -o GLFW-CMake-starter  glfw/src/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl -lX11 

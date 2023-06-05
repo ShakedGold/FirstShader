@@ -1,0 +1,23 @@
+# ninja log v5
+15	210	1685993879234000082	glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o	1ccf52297014a399
+3	233	1685993879254000082	glfw/src/CMakeFiles/glfw.dir/x11_init.c.o	78985987d36cae3c
+2	166	1685993879170666750	glfw/src/CMakeFiles/glfw.dir/vulkan.c.o	3e763e3403934aff
+1	191	1685993879200666750	glfw/src/CMakeFiles/glfw.dir/context.c.o	350674f564a07e29
+4	624	1685995721993952133	CMakeFiles/GLFW-CMake-starter.dir/main.cpp.o	6ebb5b2470f95e12
+178	347	1685993879370666745	glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o	5bff116d68784b8f
+156	351	1685993879374000078	glfw/src/CMakeFiles/glfw.dir/egl_context.c.o	e9b8ae19e5bf5a2a
+3	267	1685993879290666747	glfw/src/CMakeFiles/glfw.dir/window.c.o	276d4dbfda90d523
+166	309	1685993879330666746	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o	ddcfdca63f6e6308
+368	424	1685993879444000077	glfw/src/libglfw3.a	a0152488fd0a9284
+133	340	1685993879364000078	glfw/src/CMakeFiles/glfw.dir/glx_context.c.o	c69db80408177b11
+13	133	1685993879147333418	glfw/src/CMakeFiles/glfw.dir/posix_time.c.o	12bab03468799469
+2	226	1685993879247333415	glfw/src/CMakeFiles/glfw.dir/monitor.c.o	f888a1efd47fffe8
+2	351	1685993879374000078	glfw/src/CMakeFiles/glfw.dir/input.c.o	9f12d1edd3a0b4bd
+625	726	1685995722093952130	GLFW-CMake-starter	d852102f6a54d8d8
+2	156	1685993879177333417	glfw/src/CMakeFiles/glfw.dir/init.c.o	78b19f85baa2c0ec
+1	370	1685993879394000078	CMakeFiles/GLFW-CMake-starter.dir/glad/src/glad.c.o	66b796096300ef72
+3	368	1685993879390666745	glfw/src/CMakeFiles/glfw.dir/x11_window.c.o	c4464e4c2248babe
+9	178	1685993879174000083	glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o	b125f2600c233566
+3	255	1685993879277333414	glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o	a342c0858784ffa3
+2	637	1685995843173948960	CMakeFiles/GLFW-CMake-starter.dir/main.cpp.o	6ebb5b2470f95e12
+637	719	1685995843253948959	GLFW-CMake-starter	d852102f6a54d8d8
